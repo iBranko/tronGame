@@ -2,6 +2,7 @@
 A simple tron-like game
 
 Commands:
+
 	Player 1:
 		Up arrow = Up;
 		Right Arrow = Right;
